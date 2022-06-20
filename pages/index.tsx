@@ -1,3 +1,3 @@
-export default function Home() {
-  return <>아름짱 코드지갑</>;
+export default function Reumiwallet() {
+  return <>아름이지갑</>;
 }
