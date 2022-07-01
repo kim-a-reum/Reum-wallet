@@ -24,7 +24,7 @@ export default function ManualCounter() {
 
   return (
     <>
-      <p>자동 카운트: {count}</p>
+      <p>자동 카운트:{count}</p>
       <button onClick={startCounter}>시작</button>
       <button onClick={stopCounter}>정지</button>
     </>
