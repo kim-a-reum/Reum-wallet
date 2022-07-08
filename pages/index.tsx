@@ -1,3 +1,3 @@
 export default function Reumiwallet() {
-  return <>아름이지갑</>;
+  return <ul> 뭐야</ul>;
 }
