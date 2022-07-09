@@ -22,6 +22,7 @@ const FRUITS = ["바나나", "사과", "토마토"];
 
 const Dropdown2UI = () => {
   const [isActive, setIsActive] = useState(false);
+  // 안녕
 
   const onClickSelectBtn = () => {
     setIsActive((prev) => !prev);
